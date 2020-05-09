@@ -95,3 +95,9 @@ If you find our work useful in your research, please consider citing:
 	}
 
 ---
+```python
+pip install -r requirements.txt 
+conda activate clean-test
+conda create --name clean-test python=3.7.6 cudatoolkit=10.0
+```
+
